@@ -1,6 +1,6 @@
 {
   "name": "sameer-react-component-library",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A starter template for creating component libraries in React",
   "module": "dist/esm/index.js",
   "files": [
