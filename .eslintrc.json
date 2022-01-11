@@ -32,8 +32,6 @@
         "ignoreRestSiblings": true
       }
     ],
-
-    // https://github.com/yannickcr/eslint-plugin-react#list-of-supported-rules
     "react/function-component-definition": [
       "error",
       {

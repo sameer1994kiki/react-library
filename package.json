@@ -1,6 +1,6 @@
 {
   "name": "sameer-react-component-library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A starter template for creating component libraries in React",
   "module": "dist/esm/index.js",
   "files": [
@@ -26,7 +26,7 @@
     "jest",
     "scss"
   ],
-  "author": "Anam K",
+  "author": "sameer",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.16.5",
