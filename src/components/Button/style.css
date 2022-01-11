@@ -1,0 +1,30 @@
+
+.btn {
+    position: relative;
+    display: inline-block;
+    white-space: nowrap;
+    text-align: center;
+    vertical-align: middle;
+    background-image: none;
+    cursor: pointer;
+    outline: none;
+    width:200px;
+    height: 80px;
+}
+
+.btn-loading {
+    user-select: none;
+    pointer-events: none;
+}
+
+.btn-ghost {
+    user-select: none;
+    box-shadow: none;
+}
+
+.btn-default {
+}
+
+.btn-link {
+    box-shadow: none;
+}

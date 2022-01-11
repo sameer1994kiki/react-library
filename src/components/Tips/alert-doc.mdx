@@ -1,0 +1,30 @@
+<!-- Tips Doc -->
+
+## Tips 警告提示
+
+我们可以配置不同类型的 `Tips`, 以满足各种情况下的展示提示。
+
+import { Story, Meta, ArgsTable, Source } from "@storybook/addon-docs/blocks";
+import { Tips } from "./tips";
+import dedent from "ts-dedent";
+<Meta title="Components/Tips" component={Tips} />;
+
+### 使用
+
+<Source
+  language="jsx"
+  code={dedent`
+      <Tips
+      message={message} 
+      description={description} 
+      closable={closable} 
+      type={type}
+      onClose={action('close')}
+    />`}
+/>
+
+### 具体参数
+
+<ArgsTable of={Tips} />
+
+export const Template = (args) => <Tips {...args} />;
