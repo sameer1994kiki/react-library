@@ -1,1 +1,0 @@
-{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/hooks/useBoolean/index.tsx"],"names":[],"mappings":"AAGA,UAAU,OAAO;IACf,OAAO,EAAE,MAAM,IAAI,CAAC;IACpB,QAAQ,EAAE,MAAM,IAAI,CAAC;IACrB,MAAM,EAAE,CAAC,KAAK,CAAC,EAAE,OAAO,GAAG,SAAS,KAAK,IAAI,CAAC;CAC/C;AACD,QAAA,MAAM,UAAU,0CAA6B,CAAC,OAAO,EAAE,OAAO,CAqB7D,CAAC;AACF,eAAe,UAAU,CAAC"}
